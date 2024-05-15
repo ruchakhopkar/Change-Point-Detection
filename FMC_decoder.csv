@@ -1,0 +1,33 @@
+﻿Results,FMC,Description
+S_S_S_S_S,FM0,No Failure
+S_S_S_S_D,FM1,SNRE crossing TTF
+S_S_S_D_S,FM2,VGAS crossing TTF
+S_S_S_D_D,FM3,VGAS & SNRE crossing TTF 
+S_S_D_S_S,FM4,PW50 crossing TTF
+S_S_D_S_D,FM5,PW50 & SNRE crossing TTF
+S_S_D_D_S,FM6,PW50 & VGAS crossing TTF
+S_S_D_D_D,FM7,"PW50, VGAS & SNRE crossing TTF"
+S_D_S_S_S,FM8,BER crossing TTF
+S_D_S_S_D,FM9,BER & SNRE crossing TTF
+S_D_S_D_S,FM10,BER & VGAS crossing TTF
+S_D_S_D_D,FM11,"BER, VGAS & SNRE crossing TTF"
+S_D_D_S_S,FM12,BER & PW50 crossing TTF
+S_D_D_S_D,FM13,"BER, PW50 & SNRE crossing TTF"
+S_D_D_D_S,FM14,"BER, PW50 & VGAS crossing TTF"
+S_D_D_D_D,FM15,"BER, PW50, VGAS & SNRE crossing TTF"
+D_S_S_S_S,FM16,MRE  crossing TTF
+D_S_S_S_D,FM17,MRE & SNRE crossing TTF
+D_S_S_D_S,FM18,MRE & VGAS crossing TTF
+D_S_S_D_D,FM19,"MRE, VGAS & SNRE crossing TTF"
+D_S_D_S_S,FM20,MRE & PW50 crossing TTF
+D_S_D_S_D,FM21,"MRE, PW50 & SNRE crossing TTF"
+D_S_D_D_S,FM22,"MRE,PW50 & VGAS crossing TTF"
+D_S_D_D_D,FM23,"MRE, PW50, VGAS & SNRE crossing TTF"
+D_D_S_S_S,FM24,MRE & BER crossing TTF
+D_D_S_S_D,FM25,"MRE, BER & SNRE crossing TTF"
+D_D_S_D_S,FM26,"MRE, BER & VGAS crossing TTF"
+D_D_S_D_D,FM27,"MRE, BER, VGAS & SNRE crossing TTF"
+D_D_D_S_S,FM28,"MRE, BER & PW50 crossing TTF"
+D_D_D_S_D,FM29,"MRE, BER, PW50 & SNRE crossing TTF"
+D_D_D_D_S,FM30,"MRE, BER, PW50 & VGAS crossing TTF"
+D_D_D_D_D,FM31,All slignals crossing TTF
